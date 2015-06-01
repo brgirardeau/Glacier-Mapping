@@ -19,7 +19,7 @@ public class Point {
 	}
 	
 	public double getZ(){
-		return x;
+		return z;
 	}
 	
 	public void setX(double xx){
